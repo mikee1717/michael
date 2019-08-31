@@ -1,0 +1,36 @@
+.relativeBody{
+	position: relative;
+	background: url('https://images.pexels.com/photos/2379652/pexels-photo-2379652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	height:100vh;
+	width:100%;
+}
+
+.inputStyle{
+	width: 260px;
+	height: 256px;
+	color: #fff;
+	border: 1px solid #fff;
+	padding: 30px;
+	margin: 0 auto;
+	margin-top: 10%;
+}
+
+.btnLogIn{
+width:100%;	
+}
+
+.con2{
+background: url('https://images.pexels.com/photos/2338113/pexels-photo-2338113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+height:100vh;
+width:100%;
+color:white;
+}
+
+h1{
+text-align:center;
+/*color:white;*/	
+}
+
+#mc{
+display:none;
+}
